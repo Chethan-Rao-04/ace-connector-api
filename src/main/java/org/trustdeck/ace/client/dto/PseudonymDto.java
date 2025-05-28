@@ -11,7 +11,7 @@ import java.sql.Timestamp;
  */
 @Getter
 @Setter
-public class RecordDto {
+public class PseudonymDto {
     @NotBlank
     private String id; // Identifier of the record
     @NotBlank
